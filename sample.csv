@@ -1,0 +1,393 @@
+,Patient_ID,Systemic Illness,Rectal Pain,Sore Throat,Penile Oedema,Oral Lesions,Solitary Lesion,Swollen Tonsils,HIV Infection,Sexually Transmitted Infection,MonkeyPox
+18014,P18014,Swollen Lymph Nodes,True,False,True,False,True,True,False,False,Positive
+3400,P3400,Fever,True,True,False,False,True,True,True,True,Positive
+16851,P16851,Muscle Aches and Pain,False,False,False,True,False,False,True,True,Negative
+4445,P4445,Muscle Aches and Pain,True,False,False,False,True,True,True,False,Negative
+3084,P3084,Swollen Lymph Nodes,True,True,True,True,False,True,True,True,Positive
+1048,P1048,Swollen Lymph Nodes,False,False,False,False,False,True,False,True,Positive
+7293,P7293,Muscle Aches and Pain,False,True,False,True,False,True,True,True,Positive
+4933,P4933,Muscle Aches and Pain,True,False,True,True,False,True,True,False,Positive
+17221,P17221,Fever,False,False,False,True,True,True,False,True,Positive
+1868,P1868,Swollen Lymph Nodes,True,False,True,False,False,True,False,False,Negative
+18463,P18463,Fever,False,False,True,True,True,False,True,False,Positive
+54,P54,Muscle Aches and Pain,True,True,True,False,True,True,True,True,Negative
+7643,P7643,Fever,False,False,False,False,True,False,False,False,Positive
+6568,P6568,Fever,False,True,False,True,True,False,False,True,Positive
+18764,P18764,Swollen Lymph Nodes,True,True,True,True,False,False,True,True,Positive
+17622,P17622,Swollen Lymph Nodes,True,True,False,True,True,True,True,True,Positive
+11588,P11588,Muscle Aches and Pain,True,True,False,True,False,False,True,False,Positive
+22339,P22339,Muscle Aches and Pain,True,True,True,False,False,False,True,False,Negative
+7485,P7485,Fever,False,True,True,True,True,False,True,False,Positive
+16526,P16526,Fever,True,False,True,False,False,True,True,False,Positive
+23043,P23043,Swollen Lymph Nodes,False,True,False,True,False,True,True,True,Positive
+23571,P23571,Muscle Aches and Pain,True,False,False,True,False,False,True,False,Positive
+11214,P11214,Swollen Lymph Nodes,True,False,False,False,False,True,True,False,Positive
+14251,P14251,Swollen Lymph Nodes,True,False,True,True,False,False,True,True,Positive
+8347,P8347,Fever,True,True,True,True,False,True,True,True,Negative
+3908,P3908,Fever,True,False,True,True,False,False,True,False,Positive
+24251,P24251,Muscle Aches and Pain,False,False,True,False,False,False,False,True,Negative
+22859,P22859,Muscle Aches and Pain,True,False,True,True,True,False,False,True,Positive
+16358,P16358,Muscle Aches and Pain,False,True,False,True,False,False,True,False,Positive
+19696,P19696,Swollen Lymph Nodes,True,True,False,False,False,True,True,False,Negative
+21041,P21041,Swollen Lymph Nodes,False,False,False,True,False,True,True,False,Negative
+2888,P2888,Fever,False,False,True,True,True,False,True,False,Negative
+19013,P19013,Muscle Aches and Pain,True,False,False,True,True,False,True,True,Negative
+22394,P22394,Muscle Aches and Pain,True,True,False,False,True,True,True,False,Negative
+16228,P16228,Fever,True,False,False,False,True,True,True,True,Negative
+20681,P20681,Swollen Lymph Nodes,True,True,True,False,True,False,True,True,Positive
+16310,P16310,Swollen Lymph Nodes,False,False,True,True,False,False,False,False,Positive
+9011,P9011,Swollen Lymph Nodes,False,False,False,True,False,False,False,True,Positive
+16607,P16607,Swollen Lymph Nodes,False,False,True,True,False,False,False,False,Positive
+10094,P10094,Swollen Lymph Nodes,True,True,True,False,True,True,True,False,Positive
+17691,P17691,Muscle Aches and Pain,True,False,True,True,True,True,True,True,Positive
+7807,P7807,Fever,True,False,False,True,True,False,False,False,Positive
+5608,P5608,Swollen Lymph Nodes,True,True,False,True,False,False,False,False,Positive
+19721,P19721,Muscle Aches and Pain,False,True,True,False,False,True,False,False,Negative
+10219,P10219,Swollen Lymph Nodes,False,True,True,True,True,False,False,False,Positive
+416,P416,Swollen Lymph Nodes,True,False,True,False,True,True,True,False,Negative
+12400,P12400,Swollen Lymph Nodes,True,False,True,True,False,True,False,True,Positive
+9559,P9559,Fever,True,False,True,False,True,True,True,True,Positive
+17823,P17823,Swollen Lymph Nodes,False,False,False,False,False,False,True,False,Positive
+6937,P6937,Swollen Lymph Nodes,True,True,False,True,True,True,True,False,Positive
+21348,P21348,Swollen Lymph Nodes,True,False,True,True,True,True,False,True,Negative
+21085,P21085,Swollen Lymph Nodes,False,True,False,True,True,False,False,False,Positive
+4203,P4203,Muscle Aches and Pain,True,False,True,True,True,True,False,False,Positive
+20300,P20300,Swollen Lymph Nodes,True,False,True,True,True,False,False,False,Positive
+21638,P21638,Muscle Aches and Pain,True,True,True,False,True,True,False,True,Positive
+3008,P3008,Swollen Lymph Nodes,False,False,True,True,True,False,False,True,Positive
+5341,P5341,Muscle Aches and Pain,False,True,True,True,True,True,False,True,Positive
+8174,P8174,Muscle Aches and Pain,False,False,True,True,True,False,True,True,Positive
+16672,P16672,Fever,False,False,False,False,False,False,False,False,Negative
+6874,P6874,Fever,True,True,False,False,True,True,True,False,Positive
+20609,P20609,Fever,True,True,True,False,False,False,False,True,Positive
+12682,P12682,Fever,False,False,True,True,True,True,False,True,Positive
+18970,P18970,Swollen Lymph Nodes,True,False,True,False,True,False,False,True,Positive
+15921,P15921,Muscle Aches and Pain,True,False,True,False,False,False,True,False,Positive
+3086,P3086,Fever,False,True,False,False,False,True,True,False,Positive
+18252,P18252,Fever,False,False,True,True,False,True,False,False,Positive
+23094,P23094,Swollen Lymph Nodes,False,False,False,False,True,True,False,False,Positive
+13160,P13160,Fever,False,False,False,True,False,True,False,True,Positive
+23050,P23050,Fever,True,True,True,True,True,False,True,False,Positive
+4714,P4714,Muscle Aches and Pain,False,False,True,False,True,True,False,False,Positive
+20579,P20579,Fever,False,False,False,True,True,False,False,True,Positive
+2368,P2368,Fever,True,True,False,True,False,False,False,False,Positive
+8487,P8487,Swollen Lymph Nodes,True,True,True,False,False,False,True,False,Positive
+14024,P14024,Fever,False,True,True,False,True,True,True,True,Positive
+4085,P4085,Muscle Aches and Pain,False,False,False,False,True,True,False,False,Negative
+71,P71,Swollen Lymph Nodes,False,False,False,True,True,True,True,True,Positive
+6456,P6456,Fever,True,False,False,False,True,True,False,True,Positive
+21857,P21857,Swollen Lymph Nodes,True,True,False,False,True,True,False,True,Negative
+2290,P2290,Swollen Lymph Nodes,False,True,False,False,True,False,True,True,Positive
+8991,P8991,Muscle Aches and Pain,True,True,False,True,False,False,False,True,Positive
+5805,P5805,Muscle Aches and Pain,False,False,True,False,True,False,False,False,Negative
+22915,P22915,Muscle Aches and Pain,False,True,True,True,False,True,True,False,Positive
+8354,P8354,Swollen Lymph Nodes,False,False,False,True,False,True,True,True,Positive
+2781,P2781,Swollen Lymph Nodes,True,False,False,True,False,True,True,True,Positive
+11651,P11651,Swollen Lymph Nodes,True,False,True,False,False,True,True,True,Positive
+19641,P19641,Swollen Lymph Nodes,False,True,True,False,True,True,False,False,Negative
+12027,P12027,Fever,False,False,True,False,False,True,False,True,Positive
+15003,P15003,Swollen Lymph Nodes,True,True,False,False,True,True,False,False,Positive
+20804,P20804,Muscle Aches and Pain,True,False,False,True,False,False,True,False,Negative
+18048,P18048,Fever,True,False,True,True,True,True,True,True,Negative
+14430,P14430,Swollen Lymph Nodes,True,False,True,True,True,False,False,True,Positive
+11256,P11256,Muscle Aches and Pain,True,True,True,False,True,False,False,True,Positive
+1706,P1706,Swollen Lymph Nodes,False,True,True,False,False,False,True,False,Positive
+21116,P21116,Swollen Lymph Nodes,False,False,False,False,False,True,False,False,Negative
+11080,P11080,Swollen Lymph Nodes,False,True,True,False,True,True,False,False,Positive
+22811,P22811,Swollen Lymph Nodes,False,True,False,True,True,True,False,True,Positive
+15834,P15834,Fever,False,False,True,False,True,True,True,False,Positive
+23749,P23749,Fever,True,True,True,True,False,True,True,True,Positive
+18181,P18181,Muscle Aches and Pain,False,True,True,True,True,False,False,False,Positive
+15016,P15016,Muscle Aches and Pain,True,False,True,False,True,False,True,False,Negative
+9904,P9904,Swollen Lymph Nodes,False,True,False,True,False,True,True,False,Positive
+17077,P17077,Muscle Aches and Pain,False,True,True,True,False,True,False,False,Negative
+16787,P16787,Muscle Aches and Pain,True,False,True,False,True,False,False,True,Positive
+2688,P2688,Swollen Lymph Nodes,True,False,False,True,True,True,True,False,Positive
+10886,P10886,Swollen Lymph Nodes,True,True,True,True,True,False,False,False,Positive
+441,P441,Muscle Aches and Pain,False,False,True,False,True,False,False,True,Positive
+15820,P15820,Swollen Lymph Nodes,True,False,False,True,False,True,False,False,Positive
+2264,P2264,Swollen Lymph Nodes,False,False,True,True,True,True,True,True,Positive
+549,P549,Fever,True,False,False,True,False,True,False,True,Positive
+20685,P20685,Swollen Lymph Nodes,False,False,True,True,False,False,False,True,Positive
+7051,P7051,Fever,True,False,True,True,False,True,False,False,Positive
+23805,P23805,Fever,False,True,True,True,True,True,True,True,Positive
+10806,P10806,Fever,False,True,True,False,False,False,True,False,Positive
+13108,P13108,Swollen Lymph Nodes,False,True,True,False,False,True,True,False,Negative
+967,P967,Fever,True,True,False,False,True,False,False,False,Positive
+6823,P6823,Muscle Aches and Pain,True,True,False,False,True,True,True,True,Positive
+10984,P10984,Muscle Aches and Pain,True,True,True,False,True,False,False,True,Negative
+1357,P1357,Fever,True,True,True,True,True,False,False,True,Positive
+8531,P8531,Swollen Lymph Nodes,False,True,True,False,True,False,False,True,Positive
+21027,P21027,Fever,True,False,False,True,True,False,True,False,Positive
+2436,P2436,Swollen Lymph Nodes,False,False,True,True,True,False,True,False,Positive
+2071,P2071,Muscle Aches and Pain,True,False,False,True,True,False,False,True,Positive
+22277,P22277,Swollen Lymph Nodes,False,True,False,False,False,False,True,True,Positive
+20075,P20075,Swollen Lymph Nodes,False,False,True,True,False,True,False,True,Negative
+325,P325,Swollen Lymph Nodes,True,True,True,True,False,False,True,True,Negative
+17895,P17895,Fever,True,False,False,False,True,False,False,True,Positive
+1428,P1428,Swollen Lymph Nodes,False,True,False,True,True,False,False,True,Negative
+18538,P18538,Fever,True,True,False,False,False,False,True,True,Positive
+12561,P12561,Swollen Lymph Nodes,True,False,True,True,True,True,False,False,Negative
+23089,P23089,Fever,False,False,True,True,True,False,False,False,Positive
+16697,P16697,Swollen Lymph Nodes,True,False,True,True,True,False,False,True,Positive
+3514,P3514,Muscle Aches and Pain,False,False,True,True,True,False,True,True,Positive
+14292,P14292,Muscle Aches and Pain,True,False,False,True,True,False,False,True,Positive
+14738,P14738,Fever,True,True,True,False,True,False,True,True,Positive
+9529,P9529,Muscle Aches and Pain,False,True,False,False,False,False,True,False,Negative
+23278,P23278,Fever,False,True,False,False,False,False,True,False,Positive
+16528,P16528,Muscle Aches and Pain,False,False,False,True,True,True,True,True,Negative
+132,P132,Swollen Lymph Nodes,True,False,True,False,False,False,False,False,Positive
+19486,P19486,Fever,False,False,True,True,True,False,True,True,Positive
+14514,P14514,Fever,False,False,True,False,True,True,True,False,Positive
+7879,P7879,Muscle Aches and Pain,True,True,False,True,False,False,True,False,Positive
+17771,P17771,Fever,False,False,True,False,True,True,False,False,Negative
+1527,P1527,Fever,True,True,True,True,False,False,True,False,Positive
+3287,P3287,Fever,True,True,True,True,True,True,True,False,Positive
+16887,P16887,Swollen Lymph Nodes,False,True,False,True,False,False,False,False,Positive
+7077,P7077,Swollen Lymph Nodes,True,True,False,False,False,False,True,False,Negative
+11305,P11305,Fever,True,True,False,False,True,False,False,False,Positive
+1243,P1243,Swollen Lymph Nodes,True,True,False,False,True,False,True,False,Positive
+7608,P7608,Muscle Aches and Pain,False,True,False,True,False,False,False,True,Positive
+5297,P5297,Fever,False,False,False,True,False,True,False,True,Positive
+22730,P22730,Muscle Aches and Pain,True,False,False,True,False,True,False,True,Negative
+16753,P16753,Swollen Lymph Nodes,True,True,False,False,False,True,True,False,Positive
+24334,P24334,Fever,False,False,True,False,False,True,True,False,Negative
+23057,P23057,Fever,True,True,True,True,False,False,False,True,Positive
+11111,P11111,Fever,False,True,False,True,True,True,True,True,Positive
+2044,P2044,Swollen Lymph Nodes,True,True,False,False,False,False,True,False,Positive
+22385,P22385,Muscle Aches and Pain,True,False,False,False,True,True,True,False,Positive
+5464,P5464,Fever,True,False,True,False,True,False,False,True,Positive
+3206,P3206,Swollen Lymph Nodes,False,False,False,False,False,True,True,True,Positive
+10654,P10654,Muscle Aches and Pain,True,False,False,True,False,True,False,True,Positive
+9901,P9901,Swollen Lymph Nodes,True,False,True,True,False,False,False,True,Positive
+7529,P7529,Swollen Lymph Nodes,True,True,True,True,True,True,True,False,Positive
+8047,P8047,Fever,False,False,False,False,False,True,True,True,Negative
+17589,P17589,Fever,True,False,True,False,True,False,True,True,Positive
+5367,P5367,Swollen Lymph Nodes,True,True,True,False,False,True,False,False,Positive
+12833,P12833,Fever,True,True,True,False,True,False,False,True,Positive
+8820,P8820,Muscle Aches and Pain,True,True,False,False,False,False,True,True,Positive
+6586,P6586,Swollen Lymph Nodes,True,False,False,False,True,False,False,False,Positive
+9662,P9662,Muscle Aches and Pain,True,True,True,True,True,False,True,False,Positive
+17855,P17855,Fever,True,True,True,True,True,True,False,False,Negative
+19037,P19037,Fever,True,True,False,False,False,True,False,False,Negative
+23473,P23473,Swollen Lymph Nodes,False,False,False,True,True,True,True,False,Positive
+859,P859,Muscle Aches and Pain,True,True,False,True,True,True,False,False,Positive
+3847,P3847,Muscle Aches and Pain,True,False,False,False,True,True,True,True,Positive
+421,P421,Fever,True,False,True,True,True,False,False,False,Negative
+10097,P10097,Fever,False,True,True,False,True,False,False,False,Negative
+7933,P7933,Swollen Lymph Nodes,False,True,True,True,False,False,True,False,Positive
+10573,P10573,Fever,False,True,False,False,True,False,True,True,Positive
+24012,P24012,Muscle Aches and Pain,True,False,False,False,False,True,False,False,Negative
+2491,P2491,Muscle Aches and Pain,False,False,True,True,False,True,False,False,Negative
+20019,P20019,Fever,True,True,True,False,False,False,False,False,Positive
+7551,P7551,Fever,True,False,False,False,True,False,True,False,Positive
+21206,P21206,Muscle Aches and Pain,False,True,False,True,True,True,False,False,Positive
+20638,P20638,Swollen Lymph Nodes,False,False,False,True,True,False,True,True,Positive
+1410,P1410,Swollen Lymph Nodes,False,True,False,True,True,False,False,False,Positive
+24815,P24815,Swollen Lymph Nodes,False,True,True,False,False,True,True,False,Positive
+3547,P3547,Muscle Aches and Pain,True,True,True,False,True,True,False,True,Positive
+10391,P10391,Fever,True,False,False,False,True,True,False,True,Positive
+14310,P14310,Fever,False,True,True,False,False,False,True,True,Positive
+8500,P8500,Muscle Aches and Pain,True,False,True,False,True,False,False,False,Negative
+20949,P20949,Fever,True,True,False,False,True,True,False,False,Positive
+23868,P23868,Fever,False,True,True,True,False,False,True,False,Positive
+12667,P12667,Fever,True,True,True,False,True,False,False,True,Negative
+8551,P8551,Fever,False,True,False,True,True,False,True,False,Negative
+17866,P17866,Fever,False,True,False,False,False,True,False,False,Positive
+6627,P6627,Fever,False,True,False,True,True,False,False,True,Positive
+3427,P3427,Muscle Aches and Pain,False,False,False,True,True,True,False,False,Negative
+15946,P15946,Swollen Lymph Nodes,False,False,True,False,True,False,False,False,Positive
+8032,P8032,Fever,False,True,False,True,False,False,False,False,Positive
+16326,P16326,Muscle Aches and Pain,False,True,True,False,True,False,False,True,Negative
+4579,P4579,Muscle Aches and Pain,False,True,True,True,False,False,True,False,Positive
+10617,P10617,Swollen Lymph Nodes,False,True,False,False,True,True,False,True,Positive
+23535,P23535,Swollen Lymph Nodes,True,True,True,True,False,False,True,False,Positive
+20974,P20974,Muscle Aches and Pain,False,True,False,False,True,False,True,False,Negative
+3865,P3865,Swollen Lymph Nodes,False,False,True,True,True,True,False,False,Negative
+24226,P24226,Muscle Aches and Pain,True,False,False,False,False,False,False,False,Positive
+13978,P13978,Swollen Lymph Nodes,False,False,False,True,True,False,False,True,Positive
+9331,P9331,Muscle Aches and Pain,False,True,False,False,False,False,True,True,Positive
+24755,P24755,Swollen Lymph Nodes,False,False,True,True,True,False,True,False,Positive
+13927,P13927,Fever,True,True,True,True,False,True,True,True,Positive
+9994,P9994,Fever,False,False,False,False,False,True,True,False,Negative
+7082,P7082,Muscle Aches and Pain,False,False,True,False,True,False,True,True,Negative
+14063,P14063,Swollen Lymph Nodes,False,False,False,False,True,False,True,True,Positive
+6312,P6312,Swollen Lymph Nodes,True,False,False,True,False,False,True,True,Positive
+17737,P17737,Muscle Aches and Pain,True,True,False,False,False,False,True,True,Positive
+1656,P1656,Swollen Lymph Nodes,True,False,False,False,False,True,False,False,Positive
+11692,P11692,Fever,False,True,True,False,True,True,True,True,Positive
+19402,P19402,Swollen Lymph Nodes,True,False,False,False,False,False,True,True,Positive
+6484,P6484,Muscle Aches and Pain,True,True,True,False,True,False,True,True,Negative
+7389,P7389,Swollen Lymph Nodes,False,True,True,True,False,False,False,True,Positive
+24179,P24179,Swollen Lymph Nodes,True,False,False,False,False,False,True,False,Positive
+2855,P2855,Muscle Aches and Pain,False,True,False,False,True,True,False,True,Positive
+4019,P4019,Fever,False,True,False,False,True,True,True,False,Positive
+24630,P24630,Muscle Aches and Pain,True,True,False,True,False,True,True,False,Positive
+14135,P14135,Muscle Aches and Pain,False,False,False,True,True,False,True,True,Positive
+7543,P7543,Fever,True,False,False,False,False,False,True,False,Positive
+22039,P22039,Swollen Lymph Nodes,False,False,True,False,True,True,True,False,Positive
+14235,P14235,Muscle Aches and Pain,False,True,True,True,True,True,True,False,Positive
+22278,P22278,Muscle Aches and Pain,False,False,False,False,False,False,True,True,Negative
+23562,P23562,Fever,False,False,False,False,False,False,True,False,Positive
+2772,P2772,Swollen Lymph Nodes,True,True,True,True,False,True,True,False,Positive
+18147,P18147,Fever,False,True,True,False,True,True,False,False,Positive
+16722,P16722,Fever,False,False,False,True,True,False,True,False,Positive
+8143,P8143,Swollen Lymph Nodes,False,True,False,False,True,False,False,True,Positive
+22269,P22269,Swollen Lymph Nodes,False,False,True,False,False,False,True,False,Positive
+19456,P19456,Swollen Lymph Nodes,True,True,True,False,True,True,True,True,Negative
+14202,P14202,Muscle Aches and Pain,False,True,True,False,True,True,False,False,Positive
+2803,P2803,Muscle Aches and Pain,True,False,True,True,False,True,False,True,Positive
+14444,P14444,Swollen Lymph Nodes,False,False,True,False,False,False,True,True,Positive
+5752,P5752,Fever,True,False,True,False,False,False,True,True,Positive
+24077,P24077,Fever,True,True,False,True,False,False,False,False,Positive
+13861,P13861,Muscle Aches and Pain,False,True,True,True,True,False,True,True,Negative
+6467,P6467,Swollen Lymph Nodes,True,True,False,False,False,False,False,False,Negative
+12129,P12129,Swollen Lymph Nodes,True,False,False,False,False,True,False,False,Negative
+19970,P19970,Muscle Aches and Pain,True,False,False,False,False,False,True,True,Positive
+23296,P23296,Fever,False,True,True,True,False,False,False,False,Positive
+6593,P6593,Muscle Aches and Pain,True,True,False,True,True,False,True,True,Negative
+6940,P6940,Swollen Lymph Nodes,False,False,True,False,False,False,False,False,Positive
+22281,P22281,Swollen Lymph Nodes,False,False,True,False,False,True,True,True,Positive
+16435,P16435,Muscle Aches and Pain,False,True,True,False,False,False,False,False,Negative
+8869,P8869,Fever,True,False,True,True,False,False,False,False,Positive
+23589,P23589,Swollen Lymph Nodes,True,False,True,False,True,False,False,True,Negative
+3256,P3256,Swollen Lymph Nodes,True,False,True,False,False,False,True,False,Negative
+14784,P14784,Fever,True,True,True,False,True,False,False,True,Positive
+13235,P13235,Fever,True,True,False,True,False,True,False,False,Positive
+20601,P20601,Fever,False,False,False,True,False,False,False,True,Positive
+9648,P9648,Swollen Lymph Nodes,True,False,True,False,True,True,True,True,Positive
+19294,P19294,Fever,True,True,True,False,False,False,True,False,Positive
+5373,P5373,Fever,False,False,True,False,True,True,True,False,Positive
+4724,P4724,Swollen Lymph Nodes,True,False,True,True,False,False,True,True,Positive
+12940,P12940,Swollen Lymph Nodes,True,False,True,False,True,True,False,True,Positive
+14633,P14633,Fever,False,False,True,False,True,True,False,True,Negative
+21213,P21213,Fever,False,False,False,True,True,True,True,False,Positive
+9874,P9874,Fever,False,False,False,False,False,True,False,True,Positive
+4477,P4477,Swollen Lymph Nodes,False,False,False,True,False,False,False,False,Positive
+4420,P4420,Swollen Lymph Nodes,True,True,False,False,True,True,True,False,Positive
+16795,P16795,Swollen Lymph Nodes,False,False,False,True,False,False,True,False,Positive
+22023,P22023,Muscle Aches and Pain,True,False,True,False,True,False,False,False,Positive
+20537,P20537,Fever,False,False,True,False,True,True,False,False,Positive
+22495,P22495,Fever,False,False,False,True,True,True,True,False,Positive
+12206,P12206,Swollen Lymph Nodes,True,False,True,True,True,False,False,True,Negative
+15986,P15986,Swollen Lymph Nodes,False,False,False,False,False,False,True,False,Positive
+24583,P24583,Swollen Lymph Nodes,False,False,True,False,True,False,True,True,Positive
+19445,P19445,Fever,True,True,False,True,False,False,True,True,Positive
+6056,P6056,Muscle Aches and Pain,True,True,True,True,True,True,False,False,Negative
+4715,P4715,Muscle Aches and Pain,False,False,False,False,False,True,True,False,Negative
+20884,P20884,Muscle Aches and Pain,False,True,False,False,True,False,False,False,Negative
+14779,P14779,Fever,False,True,True,True,True,True,True,False,Positive
+22720,P22720,Swollen Lymph Nodes,True,True,True,False,False,False,True,True,Positive
+7712,P7712,Fever,False,False,True,True,True,True,False,False,Negative
+547,P547,Fever,True,False,False,True,True,True,False,False,Positive
+13272,P13272,Fever,True,False,False,True,False,False,True,False,Negative
+24450,P24450,Fever,False,False,True,True,False,False,True,True,Positive
+3925,P3925,Fever,True,False,False,True,False,False,False,False,Positive
+18145,P18145,Fever,True,True,True,True,False,False,False,False,Positive
+22680,P22680,Swollen Lymph Nodes,False,False,False,False,False,False,False,False,Positive
+16750,P16750,Fever,True,True,False,False,True,False,False,False,Negative
+24854,P24854,Swollen Lymph Nodes,False,False,False,False,True,False,False,False,Positive
+6093,P6093,Fever,True,True,True,False,False,False,True,True,Negative
+20031,P20031,Swollen Lymph Nodes,False,False,False,False,True,False,True,False,Positive
+15135,P15135,Muscle Aches and Pain,True,True,False,False,False,False,True,False,Positive
+13951,P13951,Muscle Aches and Pain,False,False,False,False,True,False,False,True,Negative
+11847,P11847,Fever,False,True,False,False,True,True,True,True,Positive
+10212,P10212,Fever,False,True,True,True,False,False,False,False,Positive
+4063,P4063,Fever,False,True,False,True,False,False,True,False,Negative
+11708,P11708,Muscle Aches and Pain,False,True,True,False,False,True,False,True,Positive
+11710,P11710,Fever,False,False,False,True,False,False,True,True,Negative
+8254,P8254,Muscle Aches and Pain,True,False,True,False,True,True,False,True,Negative
+8735,P8735,Swollen Lymph Nodes,True,False,True,True,False,True,True,True,Positive
+19978,P19978,Swollen Lymph Nodes,True,False,True,True,False,False,True,True,Positive
+3203,P3203,Swollen Lymph Nodes,False,False,False,True,True,False,False,False,Negative
+16411,P16411,Muscle Aches and Pain,False,False,True,True,True,False,True,False,Negative
+4395,P4395,Fever,False,False,False,False,False,False,False,False,Negative
+2446,P2446,Fever,False,True,False,True,True,False,True,True,Positive
+15446,P15446,Swollen Lymph Nodes,True,False,True,True,False,True,True,False,Positive
+47,P47,Muscle Aches and Pain,False,False,True,True,True,True,True,True,Positive
+16264,P16264,Muscle Aches and Pain,False,True,True,True,True,False,False,False,Negative
+5277,P5277,Swollen Lymph Nodes,True,True,True,False,True,True,False,True,Positive
+5670,P5670,Swollen Lymph Nodes,True,False,True,False,True,True,True,False,Negative
+2911,P2911,Fever,True,True,False,True,True,False,False,True,Positive
+14119,P14119,Muscle Aches and Pain,False,False,True,True,False,False,False,False,Positive
+6563,P6563,Swollen Lymph Nodes,False,False,False,False,True,False,True,True,Negative
+4879,P4879,Muscle Aches and Pain,False,False,False,True,False,False,True,False,Negative
+18586,P18586,Swollen Lymph Nodes,True,False,False,True,True,True,False,False,Positive
+6000,P6000,Muscle Aches and Pain,False,True,False,True,False,False,False,False,Negative
+929,P929,Fever,False,False,False,False,False,True,True,True,Positive
+15734,P15734,Swollen Lymph Nodes,True,True,True,True,False,True,False,False,Positive
+23682,P23682,Swollen Lymph Nodes,False,True,True,True,False,True,False,False,Positive
+7716,P7716,Muscle Aches and Pain,True,True,False,True,False,True,False,False,Positive
+16627,P16627,Fever,False,False,True,True,False,False,False,True,Negative
+354,P354,Muscle Aches and Pain,False,False,True,True,True,True,False,True,Positive
+6274,P6274,Fever,False,False,False,False,False,True,False,False,Negative
+24187,P24187,Fever,False,True,True,True,False,True,True,False,Positive
+6637,P6637,Fever,True,False,False,False,True,False,True,False,Positive
+18609,P18609,Muscle Aches and Pain,True,True,True,True,True,True,False,False,Positive
+7260,P7260,Swollen Lymph Nodes,False,False,True,False,True,False,False,False,Positive
+13507,P13507,Muscle Aches and Pain,False,True,False,False,False,False,False,False,Negative
+17316,P17316,Fever,False,False,True,True,True,True,False,True,Positive
+4217,P4217,Fever,True,True,False,False,False,True,True,False,Positive
+11459,P11459,Fever,False,False,False,True,True,True,True,False,Positive
+21908,P21908,Fever,False,True,False,False,True,True,True,True,Positive
+22698,P22698,Fever,True,False,False,True,False,True,False,False,Positive
+12718,P12718,Swollen Lymph Nodes,True,True,True,False,True,False,False,True,Positive
+3253,P3253,Swollen Lymph Nodes,True,True,False,True,False,True,False,False,Positive
+16559,P16559,Fever,False,False,False,False,False,False,False,False,Negative
+18816,P18816,Swollen Lymph Nodes,False,True,False,True,False,False,False,True,Positive
+22982,P22982,Fever,False,True,False,True,False,False,True,True,Positive
+13728,P13728,Muscle Aches and Pain,False,True,True,True,False,False,True,True,Positive
+5498,P5498,Fever,True,False,False,False,False,False,True,True,Positive
+1429,P1429,Muscle Aches and Pain,True,True,True,True,False,False,True,False,Positive
+18506,P18506,Fever,False,False,True,False,True,False,True,True,Positive
+18662,P18662,Muscle Aches and Pain,False,True,False,False,True,True,True,True,Positive
+21360,P21360,Muscle Aches and Pain,False,True,False,False,True,True,False,False,Negative
+10661,P10661,Swollen Lymph Nodes,True,False,True,False,False,True,True,False,Positive
+15802,P15802,Swollen Lymph Nodes,True,True,False,True,True,False,False,True,Positive
+7863,P7863,Fever,False,True,False,False,False,False,True,True,Positive
+24330,P24330,Swollen Lymph Nodes,True,False,False,True,False,True,True,True,Positive
+12697,P12697,Fever,False,False,True,True,True,False,True,True,Positive
+7834,P7834,Muscle Aches and Pain,True,False,True,False,True,False,False,False,Negative
+9886,P9886,Swollen Lymph Nodes,False,False,False,False,False,False,True,False,Positive
+1879,P1879,Fever,False,False,False,False,False,False,False,False,Negative
+2963,P2963,Fever,True,False,True,True,True,False,True,False,Positive
+17906,P17906,Fever,False,True,False,False,True,False,False,False,Positive
+19273,P19273,Fever,False,False,True,False,True,True,False,False,Positive
+5216,P5216,Swollen Lymph Nodes,True,True,True,False,True,False,True,False,Positive
+20264,P20264,Muscle Aches and Pain,False,False,True,True,True,False,True,False,Negative
+10098,P10098,Muscle Aches and Pain,False,True,True,True,True,True,False,False,Positive
+15658,P15658,Fever,False,True,True,False,False,True,True,False,Negative
+4594,P4594,Swollen Lymph Nodes,False,False,True,False,True,True,True,True,Positive
+18197,P18197,Muscle Aches and Pain,False,False,True,True,False,False,True,False,Negative
+4179,P4179,Muscle Aches and Pain,True,True,True,True,True,True,False,False,Positive
+4621,P4621,Fever,False,False,True,True,True,True,False,True,Positive
+9717,P9717,Muscle Aches and Pain,False,False,False,False,True,False,False,True,Negative
+22647,P22647,Swollen Lymph Nodes,False,False,True,True,True,False,True,False,Positive
+16450,P16450,Muscle Aches and Pain,True,False,False,False,False,False,True,False,Positive
+7476,P7476,Fever,False,False,False,True,True,True,False,False,Positive
+379,P379,Fever,False,True,True,True,False,False,False,True,Positive
+23986,P23986,Fever,False,True,False,True,True,True,False,False,Positive
+6321,P6321,Swollen Lymph Nodes,False,False,False,True,False,False,False,False,Positive
+12205,P12205,Fever,False,True,False,True,True,True,True,True,Positive
+19115,P19115,Fever,False,False,True,False,True,True,False,True,Positive
+8158,P8158,Fever,True,False,False,False,False,False,True,False,Negative
+6707,P6707,Fever,True,True,False,True,True,True,True,False,Positive
+17478,P17478,Muscle Aches and Pain,False,False,True,True,False,False,False,True,Negative
+2846,P2846,Fever,True,True,True,True,True,True,False,True,Positive
+22668,P22668,Muscle Aches and Pain,False,True,False,False,True,True,False,True,Positive
+17618,P17618,Fever,True,False,True,True,True,False,False,True,Positive
+11856,P11856,Fever,False,True,True,True,False,False,False,True,Negative
+6601,P6601,Swollen Lymph Nodes,True,False,True,True,True,True,False,True,Positive
+19527,P19527,Fever,False,False,False,False,False,True,False,False,Positive
+9177,P9177,Swollen Lymph Nodes,False,False,False,True,False,True,True,True,Positive
+12845,P12845,Fever,True,False,False,False,True,True,True,True,Negative
+11811,P11811,Muscle Aches and Pain,True,False,False,False,True,False,False,False,Negative
+2041,P2041,Fever,True,False,False,False,True,True,True,False,Positive
+1366,P1366,Swollen Lymph Nodes,False,False,False,False,True,True,False,True,Negative
+1235,P1235,Muscle Aches and Pain,True,False,True,False,True,False,False,False,Negative
+24321,P24321,Fever,True,True,True,False,False,True,False,True,Positive
+4233,P4233,Fever,False,False,False,True,False,False,True,True,Negative
+20396,P20396,Muscle Aches and Pain,False,False,False,True,True,False,False,False,Negative
+11073,P11073,Muscle Aches and Pain,True,False,True,True,True,False,False,True,Negative
+10933,P10933,Muscle Aches and Pain,True,False,False,False,True,False,True,True,Positive
+13579,P13579,Fever,True,False,True,True,True,False,False,True,Positive

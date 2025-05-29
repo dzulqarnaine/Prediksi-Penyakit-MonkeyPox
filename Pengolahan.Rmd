@@ -1,0 +1,75 @@
+```{r}
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
+library(pscl)
+library(haven)
+library(dplyr)
+library(lmtest)
+library(DescTools)
+library(nortest)
+```
+
+```{r}
+df = read.csv("sample.csv", row.names = 1)
+head(df)
+str(df)
+```
+
+```{r}
+df = subset(df, select = -Patient_ID)
+str(df)
+attach(df)
+```
+
+```{r}
+df[] <- lapply(df, as.factor)
+str(df)
+```
+
+```{r}
+#MODEL 1
+mod1 = glm(MonkeyPox ~ Systemic.Illness+ Rectal.Pain+ Sore.Throat+ Penile.Oedema+ Oral.Lesions+ Solitary.Lesion+ Swollen.Tonsils+ HIV.Infection+ Sexually.Transmitted.Infection, family = binomial(link = 'logit'), data = df)
+summary(mod1)
+mod1
+```
+
+```{r}
+#MODEL 2
+mod2 = glm(MonkeyPox ~ Systemic.Illness+ Sore.Throat+ Oral.Lesions+ Sexually.Transmitted.Infection, family = binomial(link = 'logit'), data = df)
+summary(mod2)
+mod2
+```
+
+```{r}
+#1. Uji Multiko
+VIF(mod2)
+```
+
+#2. Uji Simultan (untuk mengetahui apakah setiap variabel bebas di dalam model berpengaruh atau tidak terhadap variabel tak bebas.)
+      #Hipotesis
+      #Ho : B1=ß2=ß3=B4=0 (Tidak terdapat hubungan antara setiap variabel bebas dengan variabel tak bebas)
+      #H1 : Minimal ada satu ßj=0 (Minimal ada 1 variabel bebas yang signifikan/ berpengaruh terhadap variabel tak bebas)
+
+pR2(mod1)
+qchisq(0.95,160)
+
+#Rsquare
+library(blorr)
+blr_rsq_mcfadden_adj(mod1)
+
+
+#3. Uji kesesuaian model
+library(ResourceSelection)
+hoslem.test(df$result, fitted(mod1)) #Model telah sesuai dengan prediksi jika Pvalue < alfa
+
+predik = ifelse(mod2$fitted.values>0.5, "1","0")
+head(predik)
+
+tab1 = table(Predicted = predik, Actual=df$result)
+tab1
+akurasi = ((tab1[1,1]+tab1[2,2])/sum(tab1))
+akurasi
+
+
+#Nilai Odds rasio
+exp(coef(mod2))
+
