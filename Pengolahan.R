@@ -99,3 +99,4 @@ exp(coef(model_terbaik))
 
 
 
+
